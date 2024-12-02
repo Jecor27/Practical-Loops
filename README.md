@@ -1,5 +1,7 @@
 # Practical-Loops
 
+Make sure to go into the INSPECT window to view JS output
+
 Instructions
 Initialize a new git repository in a local project folder, and create a JavaScript file to contain your code. Complete the activities below. For each of the activities, decide whether it is best to use for, for of, or while loops to implement the solution.
 Commit frequently! Every time something works, you should commit it. Remember, you can always go back to a previous commit if something breaks.
